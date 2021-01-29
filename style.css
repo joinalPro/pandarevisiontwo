@@ -1,0 +1,44 @@
+.solid{
+    padding-top: 80px;
+}
+.solid img{
+    width: 100px;
+}
+.light-bg{
+    background-color: #fceae8;
+}
+.slider-pad{
+    padding: 20px 40px;
+   
+}
+.slider-pad h6{
+    color: gray;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0% , #FF136F 100%);
+    padding: 10px 30px;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.price{
+    color: #FF136F;
+}
+.cat1,.cat2,.cat3{
+    color: #fff;
+    border-radius: 10px;
+    height: 150px;
+}
+.cat1 h2,.cat2 h2,.cat3 h2{
+            font-size: 45px;
+}
+.cat1{
+    background-color:goldenrod ;
+}
+.cat2{
+    background-color: hotpink;
+}
+.cat3{
+    background-color: indianred;
+}
