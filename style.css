@@ -1,9 +1,6 @@
 .solid{
     padding-top: 80px;
 }
-.solid img{
-    width: 100px;
-}
 .light-bg{
     background-color: #fceae8;
 }
@@ -33,6 +30,9 @@
 .cat1 h2,.cat2 h2,.cat3 h2{
             font-size: 45px;
 }
+.catimg img{
+    width: 100px;
+}
 .cat1{
     background-color:goldenrod ;
 }
@@ -41,4 +41,22 @@
 }
 .cat3{
     background-color: indianred;
+}
+.cardftr{
+    border: none;
+    background-color: #fff;
+}
+.maincard{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.intouch{
+    height: 300px;
+}
+.intouch h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+    color: gray;
 }
